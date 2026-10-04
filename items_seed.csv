@@ -1,0 +1,160 @@
+code,name,category,price,shelf_days,shelf_text,source
+OG175,CREATIVE CAKE - 4,Cake,199,3,3 days,default
+OG177,VANILLA - JR,Cake,250,3,3 days,sheet
+OG173,CHOCO CHAMP - JR,Cake,290,3,3 days,sheet
+OG176,WHITE FOREST - JR,Cake,290,2,2 days,sheet
+OG178,CHEESY SWISS - JR,Cake,290,3,3 days,sheet
+OG179,DUTCH CHOC - JR,Cake,290,3,3 days,sheet
+OG181,CREATIVE CAKE - 2,Cake,325,3,3 days,default
+OG271,NUTELLA CAKE - S,Cake,340,3,3 days,default
+OG184,ALPHONSO MANGO - S,Cake,350,3,3 days,sheet
+OG185,MANGO CHOCO - S,Cake,350,3,3 days,default
+OG187,PINEAPPLE DELIGHT - S,Cake,350,3,3 days,default
+OG188,RED VELVET - JR,Cake,350,3,3 days,sheet
+OG190,BUTTER SCOTCH - S,Cake,350,3,3 days,sheet
+OG193,BLACK CURRANT - S,Cake,400,3,3 days,sheet
+OG197,PINK HEART - S,Cake,400,3,3 days,default
+OG198,TRUFFLE CHOCO - S,Cake,400,3,3 days,sheet
+OG199,SWISS BLISS - S,Cake,400,3,3 days,default
+OG203,BLACK FOREST - S,Cake,400,2,2 days,sheet
+OG205,HAZELNUT - S,Cake,400,3,3 days,default
+OG206,CHOCO CHERRY - S,Cake,400,3,3 days,default
+OG208,CHOCO FLORAL - S,Cake,400,3,3 days,default
+OG209,NOLEN GUR - S,Cake,400,2,2 days,sheet
+OG210,TRUFFLE CHOCOLATE HEART - S,Cake,400,3,3 days,default
+OG217,DUTCH CHOCO - S,Cake,400,3,3 days,sheet
+OG219,LION FACE - S,Cake,450,3,3 days,default
+OG222,CHOCOLATE MAGIC - S,Cake,450,3,3 days,default
+OG223,RASMALAI - S,Cake,450,3,3 days,default
+OG225,DUAL FOREST - S,Cake,450,2,2 days,sheet
+OG272,ROSE RING - S,Cake,450,3,3 days,default
+OG273,PINK PETAL PARADISE - S,Cake,450,3,3 days,default
+OG274,HEART BLISS - S,Cake,450,3,3 days,default
+OG227,BLACK CURRANT - L,Cake,800,3,3 days,sheet
+OG228,TRUFFLE CHOCO - L,Cake,800,3,3 days,sheet
+OG229,BLACK FOREST - L,Cake,800,2,2 days,sheet
+OG230,PREMIUM BUTTER SCOTCH - L,Cake,700,3,3 days,default
+OG231,PINEAPPLE DELIGHT - L,Cake,700,3,3 days,default
+OG232,CHOCO LUXE RECTANGLE - L,Cake,700,3,3 days,default
+OG233,MANGO LUSH RECTANGLE - L,Cake,700,3,3 days,default
+OG235,BUTTERSCOTCH DREAM RECTANGLE - L,Cake,650,3,3 days,default
+OG237,TRUFFLE CHOCOLATE HEART - L,Cake,800,3,3 days,default
+OG239,CHOCOLATE BLOOM - L,Cake,800,3,3 days,default
+OG241,ALPHONSO MANGO - L,Cake,700,3,3 days,sheet
+OG244,MANGO CHOCO - L,Cake,700,3,3 days,default
+OG251,VANILLA DELIGHT - L,Cake,700,3,3 days,sheet
+OG252,WHITE FOREST - L,Cake,800,2,2 days,sheet
+OG253,DUTCH CHOCOLATE - L,Cake,800,3,3 days,sheet
+OG254,DUAL FOREST - L,Cake,900,2,2 days,sheet
+OG261,PRINCESS RECTANGLE - L,Cake,750,3,3 days,default
+OG262,RACING CAR - L,Cake,750,3,3 days,default
+OP127,BLACK CURRANT - P,Pastry,40,3,3 days,sheet
+OP128,TRUFFLE CHOCOLATE - P,Pastry,35,3,3 days,sheet
+OP131,STRAWBERRY - P,Pastry,35,3,3 days,sheet
+OP132,CHOCO CHIPS - P,Pastry,35,3,3 days,sheet
+OP133,WHITE FOREST - P,Pastry,55,2,2 days,sheet
+OP134,VANILLA VALUE BITE - P,Pastry,25,3,3 days,sheet
+OP135,BUTTERSCOTCH MOUSSE - P,Pastry,55,2,2 days,sheet
+OP137,PINEAPPLE CHUNK - P,Pastry,35,3,3 days,sheet
+OP139,BLACK FOREST - P,Pastry,55,2,2 days,sheet
+OP140,SWISS DELIGHT - P,Pastry,60,3,3 days,sheet
+OP145,NOLEN GUR MOUSSE - P,Pastry,60,2,2 days,sheet
+OP146,RICH MILK CAKE,Pastry,65,2,2 days,sheet
+OP147,BUTTER SCOTCH - P,Pastry,35,3,3 days,sheet
+OP148,MANGO MOUSSE - P,Pastry,55,2,2 days,sheet
+OP149,CHOCOLATE MOUSSE - P,Pastry,60,2,2 days,sheet
+OP151,ZEBRA TORTE - P,Pastry,70,3,3 days,sheet
+OP152,ALPHONSO MANGO - P,Pastry,45,3,3 days,sheet
+OP155,RED VELVET - P,Pastry,55,3,3 days,sheet
+OP038,CHOCO NUT - P,Pastry,40,3,3 days,sheet
+OP157,CHOCO STRIPE - P,Pastry,35,3,3 days,default
+OP162,DUTCH CHOCOLATE - P,Pastry,55,3,3 days,sheet
+OP163,CHOCO BOMB - P,Pastry,40,3,3 days,sheet
+OP164,CHOCO LAVA - P,Pastry,70,4,4 days,sheet
+OP206,WATERMELON - P,Pastry,50,3,3 days,sheet
+OS081,PANEER SPRING ROLL,Savoury,35,2,2 days,sheet
+OS083,VEG PIZZA,Savoury,50,2,2 days,sheet
+OS111,PANEER BUTTER MASALA,Savoury,48,2,2 days,sheet
+OS138,BURGER W/D CHEESE,Savoury,52,2,2 days,sheet
+OS139,VEG PUFF,Savoury,24,2,2 days,default
+OS140,PANEER TIKKA PUFF,Savoury,40,2,2 days,sheet
+OS141,MIXED CUTLET,Savoury,28,2,2 days,default
+OS142,BUDGET BITE,Savoury,23,2,2 days,default
+OS151,MEXICAN SANDWICH VEG,Savoury,40,2,2 days,default
+OF011,CHICKEN BURGER W/D CHEESE,Savoury,60,2,2 days,sheet
+OF021,CHICKEN SPRING ROLL,Savoury,40,2,2 days,sheet
+OF027,CHICKEN WEB,Savoury,45,2,2 days,sheet
+OF052,CHICKEN 65,Savoury,48,2,2 days,sheet
+OS024,FISH ROLL,Savoury,50,2,2 days,default
+OS030,SHAMI KABAB,Savoury,32,2,2 days,sheet
+OS034,CHICKEN KOBIRAJI,Savoury,48,2,2 days,default
+OS048,CHICKEN BUDGET BITE,Savoury,23,2,2 days,sheet
+OS058,CHICKEN PIE,Savoury,40,2,2 days,sheet
+OS078,CHICKEN HOT DOG ROLL,Savoury,50,2,2 days,sheet
+OS085,CHICKEN PIZZA,Savoury,55,2,2 days,sheet
+OS088,CHICKEN CLUB SANDWICH,Savoury,45,2,2 days,sheet
+OS096,CHICKEN CUTLET,Savoury,40,2,2 days,default
+OS102,CHICKEN CHEESE BALLS,Savoury,30,2,2 days,sheet
+OS105,JUNGLEE SANDWICH CHICKEN,Savoury,55,2,2 days,sheet
+OS145,CHICKEN PUFF,Savoury,27,2,2 days,default
+OS146,CLASSIC CHICKEN PUFF,Savoury,40,2,2 days,sheet
+OB004,PIZZA BASE ( 2 PCS ),Bread & Rolls,35,3,3 days,sheet
+OB008,BURGER BUNS,Bread & Rolls,25,4,4 days,sheet
+OB018,MILK BREAD ( 400 GMS ),Bread & Rolls,45,4,4 days,sheet
+OB019,MULTI GRAIN BREAD,Bread & Rolls,50,4,4 days,sheet
+OB036,GARLIC BREAD,Bread & Rolls,20,4,4 days,sheet
+OB046,BROWN BREAD ( 400 GMS ),Bread & Rolls,48,4,4 days,sheet
+OG255,CHOCO ICE - TNF,Cake,600,3,3 days,sheet
+OG256,STRAWBERRY BLISS - TNF,Cake,600,3,3 days,sheet
+OG259,CHOCOLATE PINATA HEART - S,Cake,580,3,3 days,sheet
+OG260,PINK PINATA HEART - S,Cake,580,3,3 days,sheet
+I0103,CHOCOLATE GIFT BOX ( 130 GMS ),Packaging & Supplies,140,,N/A,
+OC001,CHOCOLATE BOX ( GIFT TO LOVE ),Chocolate,120,180,6 months,default
+OC009,RED ROSE ( VALENTINE ),Chocolate,60,3,3 days,sheet
+OC013,ROASTED ALMOND CHOCOLATE,Chocolate,45,60,2 months,default
+OC014,SMILEY CHOCOLATE,Chocolate,80,180,6 months,sheet
+OC015,FRUIT N NUT CHOCOLATE,Chocolate,45,60,2 months,sheet
+OC016,PREMIUM FRUIT AND NUT CHOCOLATE ( 25 GMS,Chocolate,35,60,2 months,default
+OC022,CHOCOLATE INSPIRATION BOX,Chocolate,90,180,6 months,default
+OC024,TEDDY LOLLYPOP CHOCOLATE,Chocolate,18,180,6 months,default
+OC041,CHOCO MORIO,Chocolate,20,180,6 months,default
+OC090,MILK CHOCOLATE,Chocolate,40,180,6 months,sheet
+OC091,DARK CHOCOLATE,Chocolate,40,180,6 months,sheet
+OC135,HEART CHOCOLATE ( 5 PCS ),Chocolate,70,180,6 months,default
+I0031,LADDU ( 1 PCS ),Sweets & Snacks,16,7,7 days,default
+I0032,BOX LADDU ( 6 PCS ),Sweets & Snacks,100,7,7 days,default
+I0035,KAJU BARFI ( 1 PCS ),Sweets & Snacks,17,7,7 days,default
+I0037,PLAIN NIMKI,Sweets & Snacks,20,7,7 days,default
+OB009,CREAM ROLL VANILLA,Bread & Rolls,25,7,7 days,default
+OB011,CREAM ROLL CHOCOLATE,Bread & Rolls,25,7,7 days,default
+OH007,BUTTER CAKE SLICE ( 5 PCS - 60 GMS ),Slice Cake & Muffin,90,15,15 days,sheet
+OH008,DATE WALLNUT SLICE ( 5 PCS - 60 GMS ),Slice Cake & Muffin,99,15,15 days,sheet
+OH009,FRUIT CAKE SLICE ( 5 PCS - 60 GMS ),Slice Cake & Muffin,90,15,15 days,sheet
+OH010,LEMON SLICE ( 80 GMS ),Slice Cake & Muffin,22,15,15 days,sheet
+OH011,SWEET BITE,Slice Cake & Muffin,14,15,15 days,default
+OH012,CASHEW MUFFIN,Slice Cake & Muffin,18,15,15 days,sheet
+OH013,CHOCO MUFFIN,Slice Cake & Muffin,18,15,15 days,sheet
+OH014,BROWNIE,Slice Cake & Muffin,27,15,15 days,sheet
+I0953,TOMATO SAUCE SACHETS ( 1 X 100 ),Packaging & Supplies,50,,N/A,
+ID015,PAPER TISSUE ( NAPKIN )( 1 X 100 ),Packaging & Supplies,12,,N/A,
+ID017,HAPPY BIRTHDAY TAG ( 1 X 100 ),Packaging & Supplies,25,,N/A,
+ID024,WOODEN SPOON ( 1 X 100 ),Packaging & Supplies,25,,N/A,
+ID025,WOODEN KNIFE ( 1 X 100 ),Packaging & Supplies,33,,N/A,
+ID027,4 X 2-5 X 3 PASTRY BOX ( 1 X 200 ),Packaging & Supplies,150,,N/A,
+ID028,4 X 4 X 3 CAKE BOX ( 1 X 600 ),Packaging & Supplies,480,,N/A,
+ID029,6 X 4 X 3 CAKE BOX ( 1 X 600 ),Packaging & Supplies,660,,N/A,
+ID030,7 X 5 X 3 CAKE BOX ( 1 X 400 ),Packaging & Supplies,500,,N/A,
+ID031,7 X 7 X 3-5 CAKE BOX ( 1 X 100 ),Packaging & Supplies,245,,N/A,
+ID034,10 X 10 X 4 CAKE BOX ( 1 X 100 ),Packaging & Supplies,450,,N/A,
+ID035,PAPER PLATE ( 1 X 100 ),Packaging & Supplies,55,,N/A,
+ID067,8½ X 8½ X 4 CAKE BOX ( 1 X 100 ),Packaging & Supplies,400,,N/A,
+ID086,COMPOSTABLE CARRY BAG ( SMALL )( 1 X 100,Packaging & Supplies,95,,N/A,
+ID087,COMPOSTABLE CARRY BAG ( MEDIUM )( 1 X 10,Packaging & Supplies,170,,N/A,
+ID324,PAPER ENVELOPE ( 1 X 500 ),Packaging & Supplies,150,,N/A,
+ID416,ANNIVERSARY TAG ( 1 X 100 ),Packaging & Supplies,25,,N/A,
+IP010,NON WOVEN BAG ( 25 X 21 X 13/5 ),Packaging & Supplies,9,,N/A,
+IP012,NON WOVEN CARRY BAG ( LARGE )( 1 X 100 ),Packaging & Supplies,400,,N/A,
+I0954,CSP UNIFORM,Packaging & Supplies,300,,N/A,
+ID039,ORDER MEMO,Packaging & Supplies,20,,N/A,
+ID107,GRM BOOK,Packaging & Supplies,40,,N/A,
+ID191,CSP CAP,Packaging & Supplies,88,,N/A,
